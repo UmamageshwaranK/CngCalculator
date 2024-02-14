@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.form-field{
+    @apply py-2 bg-purple-300 px-3 font-semibold outline-none mt-2 rounded
+}
+
+.label-field{
+    @apply font-semibold 
+}
